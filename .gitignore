@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+INFORMATION_GATHERING/
+ftrecon_results/
+_logs/
+*.log
+.env
+*.pat
+pat.txt
+tools/
+.DS_Store
+.vscode/
+.idea/
+*.bak
